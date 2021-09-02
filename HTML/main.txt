@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="naver-site-verification" content="923478c380cb6aa8ada1c5f5009324ded0c72a72" />
+    <style type="text/css">
+      a:link { color: red; text-decoration: none;}
+      a:visited { color: black; text-decoration: none;}
+      a:hover { color: blue; text-decoration: underline;}
+    </style>
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+      body {
+        margin: 0;
+      }
+      .nav {
+        height: 70px;
+        border-bottom: 1px solid black;
+        display: flex;
+        align-items: center;
+      }
+      
+      .nav-right-items {
+        display: flex;
+        margin-left: auto;
+      }
+
+      .nav-item{
+        margin-left: 10px;
+      }
+
+      .company-name{
+        margin-left: 20px;
+      }
+
+      .title{
+        text-align: center;
+        font-size: 3.5rem;
+        font-weight: bold;
+      }
+
+      .subtitle {
+        margin-top: 50px;
+        text-align: center;
+        font-size: 1.25rem;
+        font-weght: 300;
+      }
+
+      .main {
+        width: 1000px;
+        margin: 0 auto;
+        margin-top: 60px;
+      }
+
+      .prices{
+        margin-top: 50px;
+        display: flex;
+      }
+
+      .price-item {
+        width: 300px;
+        height: 350px;
+        border: 1px solid black;
+        margin: 20px;
+        border-radius: 4px;
+        text-align: center;
+      }
+
+      .price-item-title {
+        font-size: 1.5rem;
+        background: rgba(0,0,0,.03);
+        text-ailgn: center;
+        height: 53px;
+        line-height: 53px;
+        border-bottom: 1px solid black;
+      }
+
+      .price-item-price {
+        font-size: 2.5rem;
+        font-weight: bold;
+        padding: 20px;
+      }
+
+      .price-item-button {
+        margin-top: 70px;
+        padding: .5rem 1rem;
+        font-size: 1.25rem;
+        line-hight: 1.5;
+        border-radius: .3rem;
+        color: #007bff;
+        background-color: transparent;
+        background-image: none;
+        border-color: #007bff;
+      }
+
+      .price-item-button--active {
+        background-color: #007bff;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="nav">
+      <div class="company-name">
+        MINSUNG-TECH
+      </div>
+      <div class="nav-right-items">
+        <div class="nav_item"><a href="https://www.facebook.com/profile.php?id=100009753047142">페이스북</a>  &nbsp;</div>
+        <div class="nav_item"><a href="https://www.instagram.com/minn_sung319/">인스타</a> &nbsp;</div>
+        <div class="nav_item"><a href="http://www.dankook.ac.kr/">단국대학교</a> &nbsp;</div>
+        <div class="nav_item"></div>
+      </div>
+    </div>
+    <div class="main">
+      <div class="title">
+        WELCOME TO MINSUNG'S WORLD
+      </div>
+      <div class="subtitle">
+        본 사이트는 민성의 포트폴리오 공간입니다. 아무튼 내 사이트니까 내 맘대로 하겠습니다.
+      </div>
+      <div class="prices">
+        <div class="price-item">
+          <div class="price-item-title">
+            ACTIVE 1
+          </div>
+          <div class="price-item-price">
+            GitHub
+          </div>
+          <div class="price-item-detail">
+            MINSUNG's GitHub Site
+          </div>
+          <div class="price-item-detail">
+            C, JAVA, APP code         </div>
+          <button class="price-item-button">
+            <a href="https://github.com/masterjms/masterjang_git">Click me</a>
+          </button>
+        </div>
+        <div class="price-item">
+         <div class="price-item-title">
+            ACTIVE 2
+          </div>
+          <div class="price-item-price">
+            MUSIC APP
+          </div>
+          <div class="price-item-detail">
+            첫번째 제작 앱 
+          </div>
+          <div class="price-item-detail">
+            made by andriod studio, JAVA
+          </div>
+          <button class="price-item-button price-item-button--active">
+            <a href="https://www.4shared.com/mobile/Rz8CLPUQiq/app-debug1.html">DOWNLOAD</a>
+          </button>
+        </div>
+        <div class="price-item">
+          <div class="price-item-title">
+            ACTIVE 3
+          </div>
+          <div class="price-item-price">
+            APP 2
+          </div>
+          <div class="price-item-detail">
+            preparing...
+          </div>
+          <div class="price-item-detail">
+            vidio player
+          </div>
+          <button class="price-item-button price-item-button--active">
+            <a href="https://NoisyDefinitiveCharacterencoding.mstoto0319.repl.co">Click me</a>
+          </button>
+        </div>
+      </div>
+    </div>
+      <script src="script.js"></script>
+  </body>
+</html>
