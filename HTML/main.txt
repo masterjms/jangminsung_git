@@ -118,7 +118,7 @@
         WELCOME TO MINSUNG'S WORLD
       </div>
       <div class="subtitle">
-        본 사이트는 민성의 포트폴리오 공간입니다. 아무튼 내 사이트니까 내 맘대로 하겠습니다.
+        본 사이트는 민성의 포트폴리오 공간입니다.
       </div>
       <div class="prices">
         <div class="price-item">
