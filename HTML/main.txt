@@ -132,7 +132,7 @@
             MINSUNG's GitHub Site
           </div>
           <div class="price-item-detail">
-            C, JAVA, APP code         </div>
+            C, JAVA, HTML, APP code         </div>
           <button class="price-item-button">
             <a href="https://github.com/masterjms/masterjang_git">Click me</a>
           </button>
@@ -142,16 +142,16 @@
             ACTIVE 2
           </div>
           <div class="price-item-price">
-            MUSIC APP
+            PORTPOLIO
           </div>
           <div class="price-item-detail">
-            첫번째 제작 앱 
+            웹페이지가 아닌 앱으로 즐기세요
           </div>
           <div class="price-item-detail">
-            made by andriod studio, JAVA
+            Made by Swing2app
           </div>
           <button class="price-item-button price-item-button--active">
-            <a href="https://www.4shared.com/mobile/Rz8CLPUQiq/app-debug1.html">DOWNLOAD</a>
+            <a href="https://www.4shared.com/mobile/jYZw2aHDiq/MINSUNG_APP-0_2_debug.html">DOWNLOAD</a>
           </button>
         </div>
         <div class="price-item">
@@ -159,16 +159,16 @@
             ACTIVE 3
           </div>
           <div class="price-item-price">
-            APP 2
+            MY APP
           </div>
           <div class="price-item-detail">
-            preparing...
+            직접 개발한 앱 다운로드
           </div>
           <div class="price-item-detail">
-            vidio player
+            Made by Android Studio, JAVA
           </div>
           <button class="price-item-button price-item-button--active">
-            <a href="https://NoisyDefinitiveCharacterencoding.mstoto0319.repl.co">Click me</a>
+            <a href="https://linktodownloadmakingapp.mstoto0319.repl.co">Click me</a>
           </button>
         </div>
       </div>
